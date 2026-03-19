@@ -37,7 +37,6 @@ marketing and retention strategies.
 
 ## Tools Used
 - MySQL Workbench
-- FreeSQLdatabase.com (MySQL cloud hosting)
 - GitHub
 
 ## Repository Structure
